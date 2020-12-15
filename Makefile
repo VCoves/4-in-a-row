@@ -1,7 +1,7 @@
-all: joc.exe
+all: game.exe
 
-joc.exe: joc.hs
-	ghc joc.hs
+game.exe: game.hs
+	ghc game.hs
 
 clean:
 	rm *.hi *.o *.exe

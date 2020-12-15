@@ -5,7 +5,7 @@ As usual, there are 2 players: X y O.
 There are 4 strategies to choose from.
 
 ## Getting started
-To start a game run *joc.exe*, which you compile doing `ghc joc.hs`.
+To start a game run *game.exe*, which you compile doing `ghc game.hs`.
 
 For each player the program prompts for the strategy number:
 * 0 = Random Bot
